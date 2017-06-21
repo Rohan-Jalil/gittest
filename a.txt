@@ -1,4 +1,5 @@
 asdhv
+<<<<<<< HEAD
 
 WOW WOW
 TOT TOT
@@ -9,3 +10,5 @@ HELLO HELLO
 asdasdas
 
 adsasd
+=======
+>>>>>>> parent of 96f0be4... third
